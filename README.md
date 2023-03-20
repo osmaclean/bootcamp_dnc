@@ -16,7 +16,7 @@
 
 <hr> 
 
-## Parte 1 - Estrutura menu (Dektop)
+## Parte 1 - Estrutura menu (Desktop)
 
 ### Criar estrutura HTML5, estilização via CSS3. Aplicado menu fixo.
 
